@@ -1,2 +1,2 @@
 # my-repo
-Exampe helm chart repo
+Example helm chart repo
