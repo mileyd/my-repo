@@ -3,12 +3,12 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-17T15:25:18.3301409Z"
+    created: "2022-12-17T15:46:09.0022616Z"
     description: A Helm chart for Kubernetes
     digest: c20a60b874781065735fcef0455f3c2e337329a867d0786aab7441b21b320f28
     name: hello-world
     type: application
     urls:
-    - https://github.com/mileyd/my-repo/hello-world-0.1.0.tgz
+    - https://mileyd.github.io/my-repo/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-17T15:25:18.3296002Z"
+generated: "2022-12-17T15:46:09.0017567Z"
